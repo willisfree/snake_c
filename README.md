@@ -1,2 +1,2 @@
-# snake_c
+# snake game
 Console snake game written in C
